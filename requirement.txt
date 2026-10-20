@@ -2,4 +2,5 @@ pandas,
 numpy,
 matplotlib,
 statsmodels,
-seaborn
+seaborn,
+sklearn
